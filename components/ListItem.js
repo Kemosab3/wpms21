@@ -51,7 +51,7 @@ const styles = StyleSheet.create({
   },
 
   listTitle: {
-    fonWeight: 'bold',
+    fontWeight: 'bold',
     fontSize: 20,
     paddingBottom: 15,
   },
